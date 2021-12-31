@@ -1,0 +1,5 @@
+
+TOKEN="5034828546:AAHFEXJLXDOvlDU4Su__yJjLhs40OrPsjNU"
+DATABASE="postgres"
+USER="postgres"
+PASSWORD="root"
